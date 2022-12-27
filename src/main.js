@@ -1,1 +1,3 @@
-console.log('http://localhost:9000/')
+//引入公共样式
+import './style/public.scss'
+import './other'
